@@ -1,0 +1,43 @@
+td{
+
+    font-size: 25px
+}
+.col-1{
+
+background-color: red
+}
+
+
+
+h1{
+
+text-align: center;
+
+}
+
+
+.col-2{
+
+    background-color: blueviolet
+}
+
+.last-col{
+
+background-color: yellowgreen
+
+}
+
+.mid-col{
+
+background-color: hotpink
+
+}
+.col-3{
+
+    background-color: darkolivegreen
+}
+
+.random{
+
+    background-color: darkgray
+}
